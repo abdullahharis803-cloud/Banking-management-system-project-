@@ -35,3 +35,7 @@ Command Line Interface (CLI)
 How to Run the Project
 Requirements
 Java JDK installed
+
+THE link for the video is this
+
+https://youtu.be/4ZLn1Duy66w?si=o3HDMHuxJ1wtrbRJ
