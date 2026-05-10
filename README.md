@@ -30,7 +30,7 @@ Secure login system for authorized users.
 Technologies Used
 Java
 OOP Concepts
-File Handling / Database (if used)
+File Handling / Database
 Command Line Interface (CLI)
 How to Run the Project
 Requirements
