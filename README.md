@@ -7,10 +7,12 @@ Full Name
 CMS/ID
 Section
 Abdullah Haris
-023-25-0148
+023-25-0148 
+section (c)
 
 Rajveer Oad
 023-25-0192
+section (c)
 
 Purpose of the Project
 The main purpose of this project is to automate and simplify banking operations through a digital system. It helps reduce manual work, improves record management, and provides a better understanding of programming concepts used in real-world banking applications.
